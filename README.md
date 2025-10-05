@@ -75,3 +75,7 @@ Le prince est parti à la recherche du trésor. Il peut accomplir les actions su
 Comment doit-il faire pour récupérer le trésor le plus vite possible ? Quel temps lui faudra-t-il ?
 
 
+**Résultat :**  
+
+![tresor_graph_result.png](tresor_graph_result.png)
+Figure: Mise en lumière du chemin le plus court entre départ et trésor calculé par l'algorithme de Dijkstra.
